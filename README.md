@@ -1,5 +1,6 @@
 # Inraft-Agency-Site
-<a href="https://inraft.com">Site is currently under construction.</a>
+Site is currently under construction.
+<a href="https://inraft.com">Visit site here./a>
 
 
 ![image](https://user-images.githubusercontent.com/37941642/188210323-ba194b19-5bfc-423e-8943-bb3bd24b2e8e.png)
